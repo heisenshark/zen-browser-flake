@@ -16,7 +16,7 @@
       specific.sha256 = "0ahpig3kafphg0pnkl1r60b9phfp5s2rilpxb20q2fwz41d1miwi";
 
       generic.url = "https://github.com/zen-browser/desktop/releases/download/twilight/zen.linux-generic.tar.bz2";
-      generic.sha256 = "0x878a4hh3k9z16qc4wq1m3kf8ppf3wivv9mpavgc5qdmfvpphv4";
+      generic.sha256 = "17pm1iqqsvbsbrfwwkg095z2pwd3h7dhiag1lz8n6hsbgigxpqc1";
     };
 
     pkgs = import nixpkgs {
